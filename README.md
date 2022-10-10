@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shemsu Juhar</h1>
 <h3 align="center">A passionate Full Stack developer from Ethiopia.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/GYny.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shemsju&label=Profile%20views&color=0e75b6&style=flat" alt="shemsju" /> </p>
 
 <h3 align="left">Connect with me:</h3>
