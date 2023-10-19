@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **kubernetes**
 
-- 📫 How to reach me **sjuhar@kifiya.et**
+- 📫 How to reach me **shemsju@gmail.com, shemsju@yahoo.com**
 
 - ⚡ Fun fact **I'm sociable**
 
